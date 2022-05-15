@@ -1,0 +1,115 @@
+@charset "utf-8";
+#header {
+}
+body {
+    background-color: #FAF5E4;
+}
+body img {
+    right: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+
+}
+.column{
+    display: flex;
+    width: 50%;
+    padding-left: 10px;
+    padding-right: 9px;
+    padding-bottom: 15px;
+}
+.column img {
+    padding-right: 7px;
+    float: none;
+    padding-left: 6px;
+    text-align: center;
+}
+
+
+.navbar {
+}
+footer {
+    background-color: #004445;
+    color: #F8F4F4;
+}
+main {
+    background-color: #F8B400;
+}
+body main div {
+    padding-bottom: 17px;
+}
+.footerdiv {
+    display: flex;
+    width: 123%;
+    padding-left: 101px;
+    padding-right: 15px;
+    padding-top: 12px;
+}
+.footerdiv p {
+    padding-left: 94px;
+}
+main header h1 {
+    color: #FFFFFF;
+    text-align: center;
+}
+main div h2 {
+}
+body main img {
+    float: none;
+
+}
+
+
+body main img {
+    padding-bottom: 21px;
+    padding-right: 12px;
+    float: none;
+    clear: none;
+}
+body main div {
+    display: flex;
+}
+main div div {
+    display: block;
+    border-color: #252323;
+    border-radius: 5px;
+}
+body main header {
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+}
+.hotel {
+    border-style: solid;
+    border-radius: 18px;
+    border-color: #5A5A5A;
+}
+
+main div p {
+    padding-left: 26px;
+}
+.grooming {
+    display: flex;
+}
+.groomdiv {
+    display: block;
+    text-align: center;
+    border: thick solid #474545;
+    border-radius: 19px;
+    padding-bottom: 0px;
+    border-spacing: 0px 0px;
+}
+body main form {
+    background-color: #2C786C;
+    border-radius: 27px;
+}
+main form fieldset {
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 10px;
+}
+main form div {
+    padding-left: 47px;
+}
